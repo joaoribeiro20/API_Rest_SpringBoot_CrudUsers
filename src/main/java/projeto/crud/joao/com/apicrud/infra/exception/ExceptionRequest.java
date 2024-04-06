@@ -1,4 +1,4 @@
-package projeto.crud.joao.com.apicrud.infra;
+package projeto.crud.joao.com.apicrud.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
